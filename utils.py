@@ -1,3 +1,5 @@
+from rules import check_winner, is_tie
+
 def display_winner(board):
     """Announces the winner or tie."""
     if check_winner(board, "X"):
