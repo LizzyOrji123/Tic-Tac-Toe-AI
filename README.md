@@ -34,11 +34,11 @@ Ensure you have:
 ### **🔹 Running the Game**
 1. **Clone the repository**:
    ```
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/your-username/tic-tac-toe-ai.git
    ```
 2. **Navigate to the project folder**:
    ```
-   cd tic-tac-toe
+   cd tic-tac-toe-ai
    ```
 3. **Run the game**:
    ```
