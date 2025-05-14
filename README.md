@@ -74,13 +74,6 @@ Ensure you have:
 ✅ **Why?** Prevents overlapping prints and ensures a clean Tic-Tac-Toe board.  
 
 
-## **🚀 Future Improvements**
-✅ **Enhance AI Strategy** – Make AI **more intelligent** using **minimax** or **machine learning**.  
-✅ **Add Score Tracking** – Keep a record of **wins/losses/draws**.  
-✅ **Implement a GUI** – Use `Tkinter` or `PyGame` for **graphical gameplay** instead of terminal input.  
-✅ **Multiplayer Mode** – Allow **two players to compete** instead of just AI vs. Human.  
-
-
 **📜 License**
 This project is open-source under the **MIT License**. You are free to use, modify, and distribute it.
 
