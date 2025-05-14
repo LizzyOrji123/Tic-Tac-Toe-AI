@@ -11,7 +11,6 @@ Instead of a single script, the project is broken down into multiple files, each
 ✅ **Separation of concerns** (game logic, board display, AI moves, rules, etc.).  
 ✅ **Easily extendable** for better AI or graphical improvements.  
 
----
 
 ## **📁 Folder & File Structure**
 ```
@@ -25,7 +24,6 @@ tic-tac-toe/
 │── README.md      # Documentation file
 ```
 
----
 
 ## **🛠️ Setup Instructions**
 ### **🔹 Prerequisites**
@@ -47,7 +45,6 @@ Ensure you have:
    python game.py
    ```
 
----
 
 ## **⚠️ Problems Encountered & Fixes**
 ### **1️⃣ Import Issues (`ModuleNotFoundError`)**
@@ -76,7 +73,6 @@ Ensure you have:
    ```
 ✅ **Why?** Prevents overlapping prints and ensures a clean Tic-Tac-Toe board.  
 
----
 
 ## **🚀 Future Improvements**
 ✅ **Enhance AI Strategy** – Make AI **more intelligent** using **minimax** or **machine learning**.  
@@ -84,7 +80,6 @@ Ensure you have:
 ✅ **Implement a GUI** – Use `Tkinter` or `PyGame` for **graphical gameplay** instead of terminal input.  
 ✅ **Multiplayer Mode** – Allow **two players to compete** instead of just AI vs. Human.  
 
----
 
 **📜 License**
 This project is open-source under the **MIT License**. You are free to use, modify, and distribute it.
