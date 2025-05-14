@@ -1,7 +1,3 @@
-Certainly! Below is a **detailed README.md** file for your Tic-Tac-Toe project, including a project overview, setup instructions, encountered problems, and future improvements.
-
----
-
 # **Tic-Tac-Toe AI**  
 A **Python-based Tic-Tac-Toe** game where a user competes against an **AI opponent** with basic decision-making abilities.  
 
